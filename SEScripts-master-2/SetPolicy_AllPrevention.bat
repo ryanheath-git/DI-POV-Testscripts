@@ -1,0 +1,3 @@
+@echo off
+python set_windows_policy.py selab.customers.deepinstinctweb.com/ 62 --prevention_level HIGH --ransomware_behavior PREVENT --in_memory_protection True --arbitrary_shellcode_execution PREVENT --remote_code_injection PREVENT --credentials_dump PREVENT --known_payload_execution PREVENT --api_connector eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NTA2NDM5NTEsIm5iZiI6MTY1MDY0Mzk1MSwianRpIjoiYjM5OTAwOGEtYzYzYy00ZWQ4LThiNzMtYTJiYzAyZjViYTU5IiwiaWRlbnRpdHkiOnsia2V5IjoyNX0sImZyZXNoIjpmYWxzZSwidHlwZSI6ImFjY2VzcyJ9.R7zGfesVwx6pSgrJV8a969IWnRf5mqIPfAPME-KbAb4
+pause

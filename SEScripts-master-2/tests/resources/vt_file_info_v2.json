@@ -1,0 +1,742 @@
+{
+    "ITW_urls": [],
+    "additional_info": {
+        "execution_parents": [
+            "2ff357ef5477aba7293202f674f3599ebcc9efc0796f2b57b05d85005eacd2a6"
+        ],
+        "exiftool": {
+            "CharacterSet": "Unicode",
+            "CodeSize": "176128",
+            "CompanyName": "Microsoft",
+            "EntryPoint": "0x3670",
+            "FileFlagsMask": "0x0000",
+            "FileOS": "Win32",
+            "FileSubtype": "0",
+            "FileType": "Win32 EXE",
+            "FileTypeExtension": "exe",
+            "FileVersion": "1.0",
+            "FileVersionNumber": "1.0.0.0",
+            "ImageFileCharacteristics": "No relocs, Executable, No line numbers, No symbols, 32-bit",
+            "ImageVersion": "1.0",
+            "InitializedDataSize": "73728",
+            "InternalName": "Win",
+            "LanguageCode": "English (U.S.)",
+            "LinkerVersion": "6.0",
+            "MIMEType": "application/octet-stream",
+            "MachineType": "Intel 386 or later, and compatibles",
+            "OSVersion": "4.0",
+            "ObjectFileType": "Executable application",
+            "OriginalFileName": "Win.exe",
+            "PEType": "PE32",
+            "ProductName": "Win",
+            "ProductVersion": "1.0",
+            "ProductVersionNumber": "1.0.0.0",
+            "Subsystem": "Windows GUI",
+            "SubsystemVersion": "4.0",
+            "TimeStamp": "2011:06:14 19:01:16+00:00",
+            "UninitializedDataSize": "0"
+        },
+        "imports": {
+            "MSVBVM60.DLL": [
+                "_adj_fdivr_m64",
+                "Ord(546)",
+                "__vbaGenerateBoundsError",
+                "__vbaStrFixstr",
+                "_allmul",
+                "__vbaGet4",
+                "EVENT_SINK_Invoke",
+                "__vbaGet3",
+                "_adj_fprem",
+                "Ord(709)",
+                "__vbaObjVar",
+                "__vbaGetOwner3",
+                "Ord(580)",
+                "Ord(714)",
+                "__vbaRedim",
+                "Ord(537)",
+                "__vbaRecDestruct",
+                "__vbaCopyBytes",
+                "__vbaRaiseEvent",
+                "_adj_fdiv_r",
+                "__vbaRecAnsiToUni",
+                "__vbaObjSetAddref",
+                "__vbaFixstrConstruct",
+                "Ord(517)",
+                "__vbaHresultCheckObj",
+                "__vbaAryUnlock",
+                "_CIlog",
+                "Ord(616)",
+                "__vbaVarLateMemCallLd",
+                "_adj_fptan",
+                "__vbaFileClose",
+                "Ord(581)",
+                "__vbaI4Var",
+                "__vbaLateIdCall",
+                "__vbaVarLateMemSt",
+                "__vbaRecUniToAnsi",
+                "__vbaAryCopy",
+                "__vbaFreeStr",
+                "__vbaLateIdCallLd",
+                "Ord(631)",
+                "__vbaStrI2",
+                "__vbaStrI4",
+                "__vbaStrR4",
+                "__vbaFreeStrList",
+                "Ord(609)",
+                "__vbaI2I4",
+                "_adj_fdiv_m16i",
+                "EVENT_SINK_QueryInterface",
+                "__vbaFpUI1",
+                "Ord(689)",
+                "Ord(648)",
+                "Ord(516)",
+                "Ord(320)",
+                "__vbaI4Str",
+                "__vbaLenBstr",
+                "Ord(525)",
+                "Ord(594)",
+                "__vbaStrToUnicode",
+                "__vbaInStr",
+                "_adj_fdiv_m32i",
+                "Ord(717)",
+                "Ord(600)",
+                "__vbaExceptHandler",
+                "__vbaSetSystemError",
+                "DllFunctionCall",
+                "Zombie_GetTypeInfoCount",
+                "__vbaUbound",
+                "__vbaVarSetObjAddref",
+                "__vbaFreeVar",
+                "Ord(100)",
+                "__vbaFileOpen",
+                "Ord(319)",
+                "Ord(321)",
+                "_CIsin",
+                "Ord(711)",
+                "Ord(606)",
+                "__vbaNew",
+                "__vbaAryLock",
+                "__vbaLsetFixstr",
+                "__vbaVarTstEq",
+                "Ord(593)",
+                "Ord(716)",
+                "__vbaNameFile",
+                "__vbaOnError",
+                "_adj_fdivr_m32i",
+                "__vbaStrCat",
+                "__vbaVarDup",
+                "__vbaVarLateMemCallSt",
+                "__vbaChkstk",
+                "EVENT_SINK_Release",
+                "__vbaStrCmp",
+                "Ord(570)",
+                "__vbaErase",
+                "__vbaStrComp",
+                "Ord(661)",
+                "__vbaFreeObjList",
+                "Ord(650)",
+                "Ord(611)",
+                "EVENT_SINK_GetIDsOfNames",
+                "__vbaFreeVarList",
+                "__vbaStrVarMove",
+                "Ord(578)",
+                "Ord(618)",
+                "__vbaExitProc",
+                "Zombie_GetTypeInfo",
+                "__vbaCastObj",
+                "__vbaLateMemCallLd",
+                "__vbaAryConstruct2",
+                "__vbaFileSeek",
+                "__vbaFreeObj",
+                "_adj_fdivr_m32",
+                "Ord(690)",
+                "_CIcos",
+                "Ord(705)",
+                "__vbaStrErrVarCopy",
+                "__vbaErrorOverflow",
+                "Ord(669)",
+                "__vbaNew2",
+                "__vbaR8IntI4",
+                "__vbaAryDestruct",
+                "__vbaStrMove",
+                "_adj_fprem1",
+                "_adj_fdiv_m32",
+                "Ord(535)",
+                "Ord(712)",
+                "__vbaEnd",
+                "__vbaI4Abs",
+                "__vbaPutOwner3",
+                "Ord(572)",
+                "__vbaRedimPreserve",
+                "__vbaVarLateMemCallLdRf",
+                "_adj_fpatan",
+                "EVENT_SINK_AddRef",
+                "__vbaVarSetVar",
+                "__vbaVarVargNofree",
+                "__vbaStrCopy",
+                "__vbaFPException",
+                "__vbaAryVar",
+                "_adj_fdivr_m16i",
+                "__vbaVarAdd",
+                "_adj_fdiv_m64",
+                "__vbaRecDestructAnsi",
+                "Ord(519)",
+                "__vbaUI1I2",
+                "_CIsqrt",
+                "__vbaBoolStr",
+                "_CIatan",
+                "__vbaLateMemCall",
+                "Ord(529)",
+                "__vbaPut4",
+                "__vbaPut3",
+                "__vbaObjSet",
+                "Ord(644)",
+                "_CIexp",
+                "__vbaStrToAnsi",
+                "__vbaFpR4",
+                "_CItan",
+                "__vbaFpI4",
+                "Ord(598)",
+                "__vbaFpI2"
+            ]
+        },
+        "magic": "PE32 executable for MS Windows (GUI) Intel 80386 32-bit",
+        "pe-entry-point": 13936,
+        "pe-imphash": "98f67c550a7da65513e63ffd998f6b2e",
+        "pe-machine-type": 332,
+        "pe-overlay": {
+            "chi2": 34847.9375,
+            "entropy": 7.102445125579834,
+            "filetype": "Data",
+            "md5": "5a75e9f79a14b107087d72712cea6dba",
+            "offset": 249856,
+            "size": 31236
+        },
+        "pe-resource-detail": [
+            {
+                "chi2": 5373.25830078125,
+                "entropy": 7.5870585441589355,
+                "filetype": "Data",
+                "lang": "NEUTRAL",
+                "sha256": "e4841b97b8b7358157edcd29f859c7538360bd4b64c0ea4c145e4be9db273238",
+                "type": "RT_ICON"
+            },
+            {
+                "chi2": 19649.810546875,
+                "entropy": 1.863716959953308,
+                "filetype": "Data",
+                "lang": "NEUTRAL",
+                "sha256": "5f0f657f3c2686d4adcf854550fbbed4debe0719ecb4c2da350c5c9d81e1375f",
+                "type": "RT_GROUP_ICON"
+            },
+            {
+                "chi2": 44272.34375,
+                "entropy": 3.121974229812622,
+                "filetype": "Data",
+                "lang": "ENGLISH US",
+                "sha256": "0eadced1ea3aea884b5d12504232bd1db06765dc691ead1d9aefcee6225b34fb",
+                "type": "RT_VERSION"
+            }
+        ],
+        "pe-resource-langs": {
+            "ENGLISH US": 1,
+            "NEUTRAL": 13
+        },
+        "pe-resource-list": {
+            "0eadced1ea3aea884b5d12504232bd1db06765dc691ead1d9aefcee6225b34fb": "Data",
+            "5f0f657f3c2686d4adcf854550fbbed4debe0719ecb4c2da350c5c9d81e1375f": "Data",
+            "e4841b97b8b7358157edcd29f859c7538360bd4b64c0ea4c145e4be9db273238": "Data"
+        },
+        "pe-resource-types": {
+            "RT_GROUP_ICON": 1,
+            "RT_ICON": 12,
+            "RT_VERSION": 1
+        },
+        "pe-timestamp": 1308078076,
+        "sections": [
+            [
+                ".text",
+                4096,
+                173864,
+                176128,
+                5.95,
+                "6805a78c569a1d85aabd684522fa4102"
+            ],
+            [
+                ".data",
+                180224,
+                7028,
+                4096,
+                0.0,
+                "620f0b67a91f7f74151bc5be745b7110"
+            ],
+            [
+                ".rsrc",
+                188416,
+                63036,
+                65536,
+                5.7,
+                "62af04e7bdf8258f7a34dfe91f8dc06e"
+            ]
+        ],
+        "sigcheck": {
+            "authentihash": "778661ebfcf796661b58f651fe351e0bcfb2a229211c5fa20856ae7a54b9da03",
+            "file version": "1.00",
+            "internal name": "Win",
+            "link date": "07:01 PM 06/14/2011",
+            "original name": "Win.exe",
+            "product": "Win"
+        },
+        "trid": "Win32 Executable Microsoft Visual Basic 6 (58.8%)\nWin32 Executable MS Visual C++ (generic) (22.3%)\nWin64 Executable (generic) (7.5%)\nWin16 NE executable (generic) (3.6%)\nWin32 Executable (generic) (3.2%)"
+    },
+    "authentihash": "ca4bdc8f5a3f000f117e53da44a151959befd20c85ed0a005431491933f06731",
+    "community_reputation": 0,
+    "first_seen": "2022-04-11 20:30:22",
+    "harmless_votes": 0,
+    "last_seen": "2022-04-11 20:30:22",
+    "malicious_votes": 0,
+    "md5": "31361ea8ec860d3b9baf25804257aeee",
+    "permalink": "https://www.virustotal.com/gui/file/7a8775b57077e19384693200df1c14ec2351000f68daf5ae6dce44018d646c9a/detection/f-7a8775b57077e19384693200df1c14ec2351000f68daf5ae6dce44018d646c9a-1649709022",
+    "positives": 60,
+    "resource": "7a8775b57077e19384693200df1c14ec2351000f68daf5ae6dce44018d646c9a",
+    "response_code": 1,
+    "scan_date": "2022-04-11 20:30:22",
+    "scan_id": "7a8775b57077e19384693200df1c14ec2351000f68daf5ae6dce44018d646c9a-1649709022",
+    "scans": {
+        "ALYac": {
+            "detected": true,
+            "result": "Trojan.GenericKD.32322992",
+            "update": "20220411",
+            "version": "1.1.3.1"
+        },
+        "APEX": {
+            "detected": true,
+            "result": "Malicious",
+            "update": "20220410",
+            "version": "6.280"
+        },
+        "AVG": {
+            "detected": true,
+            "result": "Win32:VB-AJKP [Trj]",
+            "update": "20220411",
+            "version": "21.1.5827.0"
+        },
+        "Acronis": {
+            "detected": true,
+            "result": "suspicious",
+            "update": "20220411",
+            "version": "1.2.0.88"
+        },
+        "Ad-Aware": {
+            "detected": true,
+            "result": "Trojan.GenericKD.32322992",
+            "update": "20220411",
+            "version": "3.0.21.193"
+        },
+        "AhnLab-V3": {
+            "detected": true,
+            "result": "Trojan/Win32.Swisyn.R192813",
+            "update": "20220411",
+            "version": "3.21.3.10230"
+        },
+        "Alibaba": {
+            "detected": false,
+            "result": null,
+            "update": "20190527",
+            "version": "0.3.0.5"
+        },
+        "Antiy-AVL": {
+            "detected": true,
+            "result": "Trojan/Win32.Swisyn.bner",
+            "update": "20220411",
+            "version": "3.0.0.1"
+        },
+        "Arcabit": {
+            "detected": true,
+            "result": "Trojan.Generic.D1ED35B0",
+            "update": "20220411",
+            "version": "1.0.0.889"
+        },
+        "Avast": {
+            "detected": true,
+            "result": "Win32:VB-AJKP [Trj]",
+            "update": "20220411",
+            "version": "21.1.5827.0"
+        },
+        "Avira": {
+            "detected": true,
+            "result": "TR/Dropper.Gen",
+            "update": "20220411",
+            "version": "8.3.3.14"
+        },
+        "Baidu": {
+            "detected": true,
+            "result": "Win32.Trojan.VB.at",
+            "update": "20190318",
+            "version": "1.0.0.2"
+        },
+        "BitDefender": {
+            "detected": true,
+            "result": "Trojan.GenericKD.32322992",
+            "update": "20220411",
+            "version": "7.2"
+        },
+        "BitDefenderTheta": {
+            "detected": true,
+            "result": "AI:Packer.270F52C821",
+            "update": "20220404",
+            "version": "7.2.37796.0"
+        },
+        "Bkav": {
+            "detected": true,
+            "result": "W32.VB.Swisyn.PE",
+            "update": "20220404",
+            "version": "1.3.0.9899"
+        },
+        "CAT-QuickHeal": {
+            "detected": true,
+            "result": "W32.Mofksys.A3",
+            "update": "20220411",
+            "version": "14.00"
+        },
+        "CMC": {
+            "detected": false,
+            "result": null,
+            "update": "20211026",
+            "version": "2.10.2019.1"
+        },
+        "ClamAV": {
+            "detected": true,
+            "result": "Win.Malware.Swisyn-7610494-0",
+            "update": "20220411",
+            "version": "0.104.2.0"
+        },
+        "Comodo": {
+            "detected": true,
+            "result": "TrojWare.Win32.VB.OSKB@4pc2ok",
+            "update": "20220411",
+            "version": "34522"
+        },
+        "CrowdStrike": {
+            "detected": true,
+            "result": "win/malicious_confidence_100% (D)",
+            "update": "20210907",
+            "version": "1.0"
+        },
+        "Cybereason": {
+            "detected": true,
+            "result": "malicious.8ec860",
+            "update": "20210330",
+            "version": "1.2.449"
+        },
+        "Cynet": {
+            "detected": true,
+            "result": "Malicious (score: 100)",
+            "update": "20220411",
+            "version": "4.0.0.27"
+        },
+        "Cyren": {
+            "detected": true,
+            "result": "W32/VB.RBGG-8488",
+            "update": "20220411",
+            "version": "6.5.1.2"
+        },
+        "DrWeb": {
+            "detected": true,
+            "result": "Trojan.Siggen6.54687",
+            "update": "20220411",
+            "version": "7.0.54.3080"
+        },
+        "ESET-NOD32": {
+            "detected": true,
+            "result": "Win32/VB.OSK",
+            "update": "20220411",
+            "version": "25090"
+        },
+        "Elastic": {
+            "detected": true,
+            "result": "malicious (high confidence)",
+            "update": "20220302",
+            "version": "4.0.35"
+        },
+        "Emsisoft": {
+            "detected": true,
+            "result": "Trojan.VB (A)",
+            "update": "20220411",
+            "version": "2021.5.0.7597"
+        },
+        "F-Secure": {
+            "detected": false,
+            "result": null,
+            "update": "20220411",
+            "version": "12.0.86.52"
+        },
+        "FireEye": {
+            "detected": true,
+            "result": "Generic.mg.31361ea8ec860d3b",
+            "update": "20220411",
+            "version": "32.44.1.0"
+        },
+        "Fortinet": {
+            "detected": true,
+            "result": "W32/VB.QOT!tr",
+            "update": "20220411",
+            "version": "6.2.142.0"
+        },
+        "GData": {
+            "detected": true,
+            "result": "Trojan.GenericKD.32322992",
+            "update": "20220411",
+            "version": "A:25.32778B:27.26990"
+        },
+        "Gridinsoft": {
+            "detected": true,
+            "result": "Trojan.Win32.CoinMiner.vl!n",
+            "update": "20220411",
+            "version": "1.0.75.174"
+        },
+        "Ikarus": {
+            "detected": true,
+            "result": "Trojan-Spy.MSIL.Omaneat",
+            "update": "20220411",
+            "version": "6.0.20.0"
+        },
+        "Jiangmin": {
+            "detected": true,
+            "result": "Trojan/Swisyn.rmj",
+            "update": "20220410",
+            "version": "16.0.100"
+        },
+        "K7AntiVirus": {
+            "detected": true,
+            "result": "Trojan ( 0040f0591 )",
+            "update": "20220411",
+            "version": "12.6.41789"
+        },
+        "K7GW": {
+            "detected": true,
+            "result": "Trojan ( 0040f0591 )",
+            "update": "20220411",
+            "version": "12.6.41788"
+        },
+        "Kaspersky": {
+            "detected": true,
+            "result": "Trojan.Win32.Swisyn.bner",
+            "update": "20220411",
+            "version": "21.0.1.45"
+        },
+        "Kingsoft": {
+            "detected": false,
+            "result": null,
+            "update": "20220411",
+            "version": "2017.9.26.565"
+        },
+        "Lionic": {
+            "detected": false,
+            "result": null,
+            "update": "20220411",
+            "version": "7.5"
+        },
+        "MAX": {
+            "detected": true,
+            "result": "malware (ai score=84)",
+            "update": "20220411",
+            "version": "2019.9.16.1"
+        },
+        "Malwarebytes": {
+            "detected": true,
+            "result": "Pioneer.Virus.FileInfector.DDS",
+            "update": "20220411",
+            "version": "4.2.2.27"
+        },
+        "MaxSecure": {
+            "detected": true,
+            "result": "Trojan.Swisyn.BNER",
+            "update": "20220409",
+            "version": "1.0.0.1"
+        },
+        "McAfee": {
+            "detected": true,
+            "result": "W32/Swisyn.a",
+            "update": "20220411",
+            "version": "6.0.6.653"
+        },
+        "McAfee-GW-Edition": {
+            "detected": true,
+            "result": "BehavesLike.Win32.Swisyn.dh",
+            "update": "20220411",
+            "version": "v2019.1.2+3728"
+        },
+        "MicroWorld-eScan": {
+            "detected": true,
+            "result": "Trojan.GenericKD.32322992",
+            "update": "20220411",
+            "version": "14.0.409.0"
+        },
+        "Microsoft": {
+            "detected": true,
+            "result": "PWS:Win32/Ymacco.AA1E",
+            "update": "20220411",
+            "version": "1.1.19100.5"
+        },
+        "NANO-Antivirus": {
+            "detected": true,
+            "result": "Trojan.Win32.Swisyn.efyboj",
+            "update": "20220411",
+            "version": "1.0.146.25576"
+        },
+        "Paloalto": {
+            "detected": false,
+            "result": null,
+            "update": "20220411",
+            "version": "0.9.0.1003"
+        },
+        "Panda": {
+            "detected": true,
+            "result": "Generic Malware",
+            "update": "20220411",
+            "version": "4.6.4.2"
+        },
+        "Rising": {
+            "detected": true,
+            "result": "Trojan.VB!1.6519 (CLASSIC)",
+            "update": "20220411",
+            "version": "25.0.0.27"
+        },
+        "SUPERAntiSpyware": {
+            "detected": false,
+            "result": null,
+            "update": "20220409",
+            "version": "5.6.0.1032"
+        },
+        "Sangfor": {
+            "detected": true,
+            "result": "Trojan.Win32.Save.a",
+            "update": "20220409",
+            "version": "2.9.0.0"
+        },
+        "SentinelOne": {
+            "detected": true,
+            "result": "Static AI - Malicious PE",
+            "update": "20220330",
+            "version": "22.2.1.2"
+        },
+        "Sophos": {
+            "detected": true,
+            "result": "ML/PE-A + Troj/VB-JVT",
+            "update": "20220411",
+            "version": "1.4.1.0"
+        },
+        "Symantec": {
+            "detected": true,
+            "result": "W32.Gosys",
+            "update": "20220411",
+            "version": "1.17.0.0"
+        },
+        "TACHYON": {
+            "detected": true,
+            "result": "Trojan/W32.VB-Swisyn.281092",
+            "update": "20220411",
+            "version": "2022-04-11.02"
+        },
+        "Tencent": {
+            "detected": true,
+            "result": "Trojan.Win32.Swisyn.b",
+            "update": "20220411",
+            "version": "1.0.0.1"
+        },
+        "Trapmine": {
+            "detected": true,
+            "result": "malicious.high.ml.score",
+            "update": "20220217",
+            "version": "3.5.45.75"
+        },
+        "TrendMicro": {
+            "detected": true,
+            "result": "PE_MOFKSYS.A-O",
+            "update": "20220411",
+            "version": "11.0.0.1006"
+        },
+        "TrendMicro-HouseCall": {
+            "detected": true,
+            "result": "PE_MOFKSYS.A-O",
+            "update": "20220411",
+            "version": "10.0.0.1040"
+        },
+        "VBA32": {
+            "detected": true,
+            "result": "Trojan.VB.01049",
+            "update": "20220411",
+            "version": "5.0.0"
+        },
+        "ViRobot": {
+            "detected": false,
+            "result": null,
+            "update": "20220411",
+            "version": "2014.3.20.0"
+        },
+        "VirIT": {
+            "detected": true,
+            "result": "Trojan.Win32.VB.BBIX",
+            "update": "20220411",
+            "version": "9.5.173"
+        },
+        "Webroot": {
+            "detected": true,
+            "result": "W32.Trojan.Swisyn",
+            "update": "20220411",
+            "version": "1.0.0.403"
+        },
+        "Yandex": {
+            "detected": true,
+            "result": "Trojan.GenAsa!dm5qTke+fEg",
+            "update": "20220411",
+            "version": "5.5.2.24"
+        },
+        "Zillya": {
+            "detected": true,
+            "result": "Trojan.Swisyn.Win32.32298",
+            "update": "20220411",
+            "version": "2.0.0.4609"
+        },
+        "ZoneAlarm": {
+            "detected": true,
+            "result": "Trojan.Win32.Reconyc.hvob",
+            "update": "20220411",
+            "version": "1.0"
+        },
+        "Zoner": {
+            "detected": false,
+            "result": null,
+            "update": "20220410",
+            "version": "2.2.2.0"
+        },
+        "tehtris": {
+            "detected": true,
+            "result": "Generic.Malware",
+            "update": "20220411",
+            "version": "v0.0.7"
+        }
+    },
+    "sha1": "8e80cb0a86a9cfa00ef4d155c2d1f98b6b0d9a7a",
+    "sha256": "7a8775b57077e19384693200df1c14ec2351000f68daf5ae6dce44018d646c9a",
+    "size": 281092,
+    "ssdeep": "6144:FvEN2U+T6i5LirrllHy4HUcMQY6kbThVcHK:lENN+T5xYrllrU7QY6uThj",
+    "submission_names": [
+        "c:\\users\\xxx\\appdata\\roaming\\mrsys.exe",
+        "tmpdxnryjp4",
+        "Win",
+        "Win.exe"
+    ],
+    "tags": [
+        "peexe",
+        "spreader",
+        "overlay"
+    ],
+    "times_submitted": 1,
+    "total": 69,
+    "type": "Win32 EXE",
+    "unique_sources": 1,
+    "verbose_msg": "Scan finished, information embedded",
+    "vhash": "0250365d055)za4z"
+}

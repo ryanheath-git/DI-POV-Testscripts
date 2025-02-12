@@ -1,0 +1,20 @@
+{
+  "main" : {
+    "repository_search": "",
+    "repository_downloader": ""
+  },
+
+  "virustotal": {
+    "api_key": ""
+  },
+
+  "downloader": {
+    "test_folder": "",
+    "collection_folder": ""
+  },
+
+  "diconsole": {
+    "di_console_url": "",
+    "di_console_api_connector": ""
+  }
+}

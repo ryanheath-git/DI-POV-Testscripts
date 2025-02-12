@@ -1,0 +1,26 @@
+sha256 first_seen << header info that should be ignored
+([0-9a-fA-F]{64}|[0-9a-fA-F]{40}|[0-9a-fA-F]{32}) << this is the regex used to parse text, also ignored here
+3b12f391ce4a8edc951563ab412f154ce24597d206921f706c00ba0a6702a16d 2021-01-01 << extra "column" of info that should be ignored
+65d6ab1a8dd62e82dc13e1b8999c26738d915abaced9c29fb745f6b4a1555f3e 2021-01-01 << extra "column" of info that should be ignored
+3d3354c801cb7dba3d987ef2635568f85ac31c9b0bd6c6b8ace94ac96027fb79 2021-01-01 << extra "column" of info that should be ignored
+2cf1d1bd9f44d17acc08e7a9be9f9d6c7ac63bbf5194e33390f0e00a803d41d8
+69d0885e1490db820cfa69e85ee79f0fa96375c65b32606c3fa2a6edfe19cf1a
+0aa2a490888e688686a9d839412a913757b2dc64a1c8fdea7686f398fba64be2
+7a8775b57077e19384693200df1c14ec2351000f68daf5ae6dce44018d646c9a
+8bfcaa555c494c44b506b709380e7440258805db0a83960f1319267b8ac943da 6b5a620e4c380416f16730e5354abac7aece325f0f9357f4423c1ccfbf3584bb
+^^^ two on a line ^^^
+c702c6a20fe14749ee2fb4b9bebe183c95e517cdaba701e614b0f053fe9ef5cd
+67a308a2fb3e8f81984a82df006b631c9a04b08922cf58813eb656bcf5ab4136
+2ff357ef5477aba7293202f674f3599ebcc9efc0796f2b57b05d85005eacd2a6 sdfasdfsdfsadfsdf asdfdsafsadfsdfsdfsdfsdf
+md5 hash >> edfc4cc31dd25dfc0c1e6b8bd0be5f70 << md5 hash
+2022-04-12 0e848c30e106b3f22ffb434103bd0608d20dfbad sha1 << mix of date and sha1 hash value
+81ff409c4a29b18baa85db6579c4e6e559e27358d5a6490d60748675c4e94044
+:::::::::::::::4eab45c1318e3d8b12b865e1bddf03eb5817be76568a0aaf5426bff3b76131ca:::::: << examples of non-hex characters
+abutting the hash << and an extra line of stuff
+&*%&^%*&%*&afec09ba30bb01ca01fe14d9208ab224498cf50056aa3f770f3ae40db8883542%@$#@^$#%#& << examples of non-hex characters
+abutting the hash << and an extra line of stuff
+74e0c5d03137d87fcb57f8bb3f2e16e6a540ee02acf11f9f38c688d4ce9ee65c
+77980723f53e66234368e2db43fda4e640fcfae134dfdd57c62fb50fd53b2273
+ed01ebfbc9eb5bbea545af4d01bf5f1071661840480439c6e5babe8e080e41aa
+e0aeb2be697a64a3febda12d2ca738b1909149068923962ff2c2b2b162e38c8c
+#additional text that should be ignored
